@@ -12,7 +12,7 @@ public class LoginToAmazonAccount {
 
 @Given("I am on the amazon homepage")
 public void i_am_on_the_amazon_homepage() {
-    
+    // hey how are u 
 }
 
 @When("I click on the sign in button")
